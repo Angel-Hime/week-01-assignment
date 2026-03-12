@@ -33,6 +33,7 @@ A big struggle of mine is that I over complicate things; I find it difficult to 
 Even considering a design is difficult as I don't have that kind of creative brain, so this sort of project will continue to be difficult for that purpose. I have no real grasp on the 'design' aspect of development, so even thinking of something took me a couple hours.
 
 __Sources__
+
 https://www.adultswim.com/videos/smiling-friends
 https://www.imdb.com/title/tt12074628/episodes/?season=1&ref_=ttep
 https://www.imdb.com/title/tt12074628/episodes/?season=2&ref_=ttep

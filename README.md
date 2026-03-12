@@ -12,8 +12,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/min-width
 
 Reflection:
         
-[x]    🎯 Ensure each section of the webpage is wrapped in the correct semantic tags, ensuring that includes a <header>, <nav>, and <footer>.
-[x]    🎯 Implement CSS absolute positioning to overlay text on an image or another element.
+[ ]    🎯 Ensure each section of the webpage is wrapped in the correct semantic tags, ensuring that includes a <header>, <nav>, and <footer>.
+[ ]    🎯 Implement CSS absolute positioning to overlay text on an image or another element.
 [x]    🎯 Utilise CSS Flexbox to create a flexible and responsive layout, particularly in the <nav> element.
 [x]    🎯 Ensure all image elements (<img>) and background images are correctly implemented with accurate file paths.
 

@@ -8,9 +8,9 @@ __Reflection__
 
 [x]    🎯 Implement CSS absolute positioning to overlay text on an image or another element.
 
-[x]    🎯 Utilise CSS Flexbox to create a flexible and responsive layout, particularly in the <nav> element.
+[x]    🎯 Utilise CSS Flexbox to create a flexible and responsive layout, particularly in the nav element.
 
-[x]    🎯 Ensure all image elements (<img>) and background images are correctly implemented with accurate file paths.
+[x]    🎯 Ensure all image elements (img) and background images are correctly implemented with accurate file paths.
 
 [x]    🏹 Create a “back to top” button.
 

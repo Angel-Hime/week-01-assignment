@@ -2,14 +2,6 @@
 
 # Splash page themed on the television show 'Smiling Friends'.
 
-Sources:
-https://www.adultswim.com/videos/smiling-friends
-https://www.imdb.com/title/tt12074628/episodes/?season=1&ref_=ttep
-https://www.imdb.com/title/tt12074628/episodes/?season=2&ref_=ttep
-https://www.imdb.com/title/tt12074628/episodes/?season=3&ref_=ttep
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/min-width
-
 __Reflection__
         
 [x]    🎯 Ensure each section of the webpage is wrapped in the correct semantic tags, ensuring that includes a header, nav, and footer.
@@ -39,3 +31,11 @@ I believe that the images I used allowed for the UX to be a little better than w
 A big struggle of mine is that I over complicate things; I find it difficult to come up with a structured plan to follow. I think I would appreciate some help with approaching projects; how best to do a wireframe; and, how best to plan out the actual pseudocode.
 
 Even considering a design is difficult as I don't have that kind of creative brain, so this sort of project will continue to be difficult for that purpose. I have no real grasp on the 'design' aspect of development, so even thinking of something took me a couple hours.
+
+__Sources__
+https://www.adultswim.com/videos/smiling-friends
+https://www.imdb.com/title/tt12074628/episodes/?season=1&ref_=ttep
+https://www.imdb.com/title/tt12074628/episodes/?season=2&ref_=ttep
+https://www.imdb.com/title/tt12074628/episodes/?season=3&ref_=ttep
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/min-width

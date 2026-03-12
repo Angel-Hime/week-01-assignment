@@ -12,7 +12,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/min-width
 
 __Reflection__
         
-[x]    🎯 Ensure each section of the webpage is wrapped in the correct semantic tags, ensuring that includes a <header>, <nav>, and <footer>.
+[x]    🎯 Ensure each section of the webpage is wrapped in the correct semantic tags, ensuring that includes a '<header>', '<nav>', and '<footer>'.
 
 [x]    🎯 Implement CSS absolute positioning to overlay text on an image or another element.
 
